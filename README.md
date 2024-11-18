@@ -19,6 +19,7 @@ Ce projet est un guide complet pour construire un pipeline d'ingénierie des don
 ---
 
 ### Architecture du Système
+![Data engineering architecture](https://github.com/user-attachments/assets/55045241-3be8-439c-91de-3f03d61f11e7)
 
 #### Architecture du Système
 
